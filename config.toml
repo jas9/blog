@@ -1,0 +1,4 @@
+baseURL = "http://jas9.github.io/blog"
+languageCode = "zh-TW"
+title = "Jas's Hugo Site"
+theme = "ananke"
