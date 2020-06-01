@@ -1,6 +1,6 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Hi! I’m <br> Jas <br> UI/UX designer"
 
 # about
 about:
@@ -20,16 +20,16 @@ skill:
       progress : "90%"
       color : "#fdb157"
       
-    - title : "Logo Design"
-      progress : "60%"
+    - title : "Graphic Design"
+      progress : "90%"
       color : "#9473e6"
       
-    - title : "After Effects"
+    - title : "After XD"
       progress : "80%"
       color : "#bdecf6"
       
-    - title : "Web App"
-      progress : "70%"
+    - title : "UCD"
+      progress : "60%"
       color : "#ffbcaa"
 
 # experience
@@ -157,5 +157,5 @@ clients_logo_slider:
 # blog
 blog:
   enable : true
-  title : "Blogs"
+  title : "Posts"
   # blog post comes from "content/blog" folder
