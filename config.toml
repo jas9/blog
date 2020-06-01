@@ -1,5 +1,95 @@
+#defailt
 baseURL = "https://jas9.github.io/blog/"
-languageCode = "zh-TW"
+languageCode = "en-us"
+summaryLength = "10"
 title = "Jas's Hugo Site"
 theme = "kross-hugo"
 publishDir = "docs"
+
+# css plugins
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+
+
+# js plugin
+[[params.plugins.js]]
+URL = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/shuffle/shuffle.min.js"
+
+
+# menu
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
+
+[[menu.main]]
+URL = "posts"
+name = "Posts"
+weight = 2
+
+[[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
+weight = 3
+
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
+
+
+# default parameters
+[params]
+home = "Home"
+logo = "images/logo.png"
+# theme color
+theme_color = "#41228e"
+# contact info
+phone = "N/A"
+email = "jaschyo@email.com"
+address = "N/A"
+# meta description
+author = "Jas"
+description = "This is meta description"
+# google analytics
+google_analytics_id = "" # Your ID
+# copyright
+copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+
+
+# contact
+[params.contact]
+enable = true
+form_action = "#" # contact form works with : https://formspree.io
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "" # use png, jpg, svg or gif format
+
+# social site
+[[params.social]]
+icon = "ti-facebook"
+URL = "https://www.facebook.com/jas9design"
+
+[[params.social]]
+icon = "ti-instagram"
+URL = "https://www.instagram.com/jas9"
+
+[[params.social]]
+icon = "ti-dribbble"
+URL = "https://www.dribbble.com/jas9"
+
+[[params.social]]
+icon = "ti-twitter-alt"
+URL = "https://www.twitter.com/jas9"
