@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jas&#39;s Hugo Site</title>
-    <link>http://jas9.github.io/blog/posts/</link>
+    <link>https://jas9.github.io/blog/posts/</link>
     <description>Recent content in Posts on Jas&#39;s Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Sat, 30 May 2020 15:03:50 +0800</lastBuildDate>
     
-	<atom:link href="http://jas9.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jas9.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>http://jas9.github.io/blog/posts/hello-world/</link>
+      <link>https://jas9.github.io/blog/posts/hello-world/</link>
       <pubDate>Sat, 30 May 2020 15:03:50 +0800</pubDate>
       
-      <guid>http://jas9.github.io/blog/posts/hello-world/</guid>
+      <guid>https://jas9.github.io/blog/posts/hello-world/</guid>
       <description>A &amp;ldquo;Hello, World!&amp;rdquo; program generally is a computer program that outputs or displays the message &amp;ldquo;Hello, World!&amp;quot;. Such a program is very simple in most programming languages, and is often used to illustrate the basic syntax of a programming language. It is often the first program written by people learning to code. It can also be used as a sanity test to make sure that a computer language is correctly installed, and that the operator understands how to use it.</description>
     </item>
     
